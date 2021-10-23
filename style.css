@@ -17,6 +17,7 @@ body {
   display: grid;
   place-items: center;
   background: url(/images/Background.svg) no-repeat center/cover;
+  background-color: #202024;
 }
 
 main {
