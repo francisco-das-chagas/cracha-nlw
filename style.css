@@ -134,7 +134,7 @@ ul img:hover {
 
 }
 
-@media (max-width:1200px) {
+@media (min-width:1200px) {
   main {
     width: 100vw;
     min-height: 812px;
