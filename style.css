@@ -26,9 +26,7 @@ main {
     width: 370px;
     position: relative;
     border-radius: 1rem;
-   
-
-    
+  
     
 }
 .faixa_do_cracha {
@@ -136,7 +134,8 @@ ul img:hover {
 
 @media (max-width:1265px) {
   main {
-    background: url(/images/Background.svg) no-repeat/center;
+    background: url(images/Background.png) no-repeat center/cover;
+    background-color: #202020;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
