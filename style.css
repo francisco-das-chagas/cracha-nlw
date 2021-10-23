@@ -134,8 +134,9 @@ ul img:hover {
 
 }
 
-@media (min-width:1200px) {
+@media (max-width:1265px) {
   main {
+    background: url(/images/Background.svg) no-repeat/center;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
