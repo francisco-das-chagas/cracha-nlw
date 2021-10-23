@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: 'francisco-das-chagas',
-  instagram: 'jakelinygracielly',
-  youtube: 'maykbrito',
-  facebook: 'jakeliny.gracielly',
-  twitter: 'jakelinytec'
+  instagram: 'rocketseat_oficial',
+  youtube: 'rocketseat',
+  facebook: 'rocketseat',
+  twitter: 'rocketseat'
 }
 
 function changeSocialMediaLinks() {
